@@ -1,0 +1,15 @@
+{
+
+  "basic":{
+    "name": "M/S. SBJW",
+    "address":{
+      "address1" : "Thanaroad, Gandhimore, Bethuadahari",
+      "PIN" : "741126",
+      "District" : "Nadia"
+
+    },
+    "version": "0.0.1",
+    "dependencies": {
+    }
+  }
+}

@@ -1,0 +1,1610 @@
+2019-02-04 05:55:24,1X786X9A70,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00110-1819','C-00002-1819','C-00062-1718','20190204',NULL,'','2019-02-05','1500','','','','','',0,1500,'2019-02-28','')
+2019-02-04 05:55:33,88YX421H58,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00110-1819','C-00002-1819','C-00062-1718','20190204',NULL,'','2019-02-05','1500','','','','','',0,1500,'2019-02-28','2019-02-04')
+2019-03-22 12:13:34,45X2YX3A87,purchase_model,insert_opening,1054insert into person (
+               person_id
+              ,person_cat_id
+              ,person_name
+              ,mailing_name
+              ,mobile_no
+              ,phone_no
+              ,email
+              ,aadhar_no
+              ,pan_no
+              ,address1
+              ,city
+              ,district_id
+              ,post_office
+              ,pin
+              ,gst_number
+              ,inforce
+              ,state_id
+            ) VALUES ('C-00001-1819',5,' ','','frr','','','','','','trtre','','','','',1,'19')
+2019-03-22 10:17:37,80150611AH,person model,update_person,1064update person set
+                 person_name=?
+                , mobile_no=?
+                , email=?
+                , aadhar_no=?
+                , pan_no=?
+                , address=?
+                , city=?
+                , district_id=?
+                , post_office=?
+                , pin=?
+                , gst_number=?
+                , state_id=? where person_id=?
+2019-03-22 10:20:19,754666071A,person model,update_person,1064update person set
+                 person_name=?
+                , mobile_no=?
+                , email=?
+                , aadhar_no=?
+                , pan_no=?
+                , address=?
+                , city=?
+                , district_id=?
+                , post_office=?
+                , pin=?
+                , gst_number=?
+                , state_id=? where person_id=?
+2019-03-29 11:39:27,78H830A4X1,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00002-1819',5,'Gourisankar Oil Mill','Debojyoti Saha','9802250056','gourisankar@gmail.co','bethua','barrackpore','1','700122','barrackpore','456GVH5','458210','32432435','19','boi bank','barrackpore','4534CGHGH','57435743','65457453');
+2019-03-29 11:53:04,5334A1242X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00003-1819',5,'Fggd','Gfdgfd','fggg','gourisankar@gmail.co','hfghgf','fghgf','2','ghfghgf','hgfhgf','hghg','hgghgf','hgfhgf','19','hfgh','ghfh','hgfhfgh','422','hrhrt');
+2019-03-29 11:53:04,9A9181123X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00003-1819',5,'Fggd','Gfdgfd','fggg','gourisankar@gmail.co','hfghgf','fghgf','2','ghfghgf','hgfhgf','hghg','hgghgf','hgfhgf','19','hfgh','ghfh','hgfhfgh','422','hrhrt');
+2019-03-29 11:55:57,94X0X35H72,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-29 11:55:57,0HX9560H1X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-29 11:55:57,8XA873A4Y3,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-30 12:04:01,9A8124A2XX,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00006-1819',5,'Gourisankar Oil Mill','Debojyoti Saha','9850256520','gourisankar@gmail.co','bethua','bethua','1','7010128','no','gjghjk657465','1258','70094','19','boi','nodia','100','100200','23112345');
+2019-03-30 12:07:01,639H961896,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:01,2231442870,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:01,744047HXY4,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:28,XXYY37Y912,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00008-1819',4,'Jhghghg','6755','gourisankar@gmail.co','gvhjgh','','10','jhghj','jhghj','fvhvh','vfvfhg','jhghgh','19');
+2019-03-30 12:07:28,4X3A7Y28A7,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00008-1819',4,'Jhghghg','6755','gourisankar@gmail.co','gvhjgh','','10','jhghj','jhghj','fvhvh','vfvfhg','jhghgh','19');
+2019-03-30 12:41:16,1752831A0H,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00001-1819','C-00005-1819','C-00062-1718','',NULL,'','','','','','','','',0,1200,'','')
+2019-03-30 01:50:56,618H526235,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00002-1819','C-00005-1819','C-00062-1718','',NULL,'','','','','','','','',0,50,'','')
+2019-03-30 01:51:10,A86828YH84,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00002-1819','C-00005-1819','C-00062-1718','',NULL,'','2019-04-01','','','','','','',0,50,'2019-03-13','2019-03-28')
+2019-05-14 05:38:54,3Y169640A9,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00001-1920','V-00001-1920','C-00062-1718','100',NULL,'','2019-05-15','','','','','','',0,150,'2019-05-16','2019-05-16')
+2019-06-24 06:47:43,A12A34A418,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-1920',1,'V-00008-1920','DZ-1920','2019-06-25T01:47:34.288Z',-0.2,151,1)
+2019-06-24 06:48:26,5A93H3A351,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-1920',1,'V-00008-1920','DZ-1920','2019-06-25T01:47:34.288Z',-0.2,466,1)
+2019-06-24 06:48:55,58Y6HY1199,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-1920',1,'V-00008-1920','DZ-1920','2019-06-25T01:48:42.605Z',0.2,59,1)
+2019-07-22 10:03:55,2011HY1830,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00076-1920',76,'SOC-00011-1920','DZ-1920','2019-07-09',0.5,116,1)
+2019-07-22 10:03:57,AH96496H9H,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00076-1920',76,'SOC-00011-1920','DZ-1920','2019-07-09',0.5,116,1)
+2019-07-22 10:04:22,A3Y425A8X1,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00076-1920',76,'V-00002-1920','DZ-1920','2019-07-22T17:04:08.379Z',-0.2,4,1)
+2019-07-22 10:19:39,660X44AH23,purchase_model,insert_opening,1062insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00001-1920','V-00006-1920','DZ-1920','200','2019-07-23','','2019-07-24','','','','','','',0,24,'2019-07-25','2019-07-03')
+2019-07-22 10:21:00,955993Y3Y6,purchase_model,insert_opening,1062insert into stock_transaction (
+                   stock_transaction_id
+                  ,purchase_master_id
+                  ,product_id
+                  ,inward
+                  ,outward
+                  ,transaction_date
+                  ,memo_number
+                  ,transaction_type_id
+                ) VALUES ('ST-PUR-00001-1920-1','PUR-00001-1920',1,'2.25',0,'2019-07-09','',2)
+2019-08-10 10:29:17,6H5YHX4A47,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,3,5,1428,0.025,0.025,0,178.5,178.5,0)
+2019-08-10 10:35:34,X0735HA686,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,3,5,1428,0.025,0.025,0,178.5,178.5,0)
+2019-08-10 10:35:46,301A965Y53,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,3,5,1428,0.025,0.025,0,178.5,178.5,0)
+2019-08-10 10:36:29,24306HA733,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,3,5,1428,0.025,0.025,0,178.5,178.5,0)
+2019-08-10 10:38:10,199YX4536X,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,packet_to_quintal
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,2,12,6,12.25,0,0,0,0,0,0)
+2019-08-10 10:38:12,Y0X911H08H,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,packet_to_quintal
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,2,12,6,12.25,0,0,0,0,0,0)
+2019-08-10 10:50:29,9H9284Y209,purchase_model,insert_opening,1048insert into sale_details (
+                   sale_details_id
+                  ,sale_master_id
+                  ,product_id
+                  ,quantity
+                  ,rate
+                  ,sgst_rate
+                  ,cgst_rate
+                  ,igst_rate
+                  ,sgst
+                  ,cgst
+                  ,igst
+                ) VALUES ('-1',NULL,3,5,1428,0.025,0.025,0,178.5,178.5,0)
+2019-08-10 11:06:40,X746558H91,purchase_model,insert_opening,1064insert into stock_transaction (
+                   stock_transaction_id
+                  ,sale_master_id
+                  ,product_id
+                  ,inward
+                  ,outward
+                  ,transaction_date
+                  ,memo_number
+                  ,transaction_type_id
+                ) VALUES (?,?,?,0,?,?,1)
+2019-08-10 11:07:27,21H8Y3HH21,purchase_model,insert_opening,1064insert into stock_transaction (
+                   stock_transaction_id
+                  ,sale_master_id
+                  ,product_id
+                  ,inward
+                  ,outward
+                  ,transaction_date
+                  ,memo_number
+                  ,transaction_type_id
+                ) VALUES (?,?,?,0,?,?,1)
+2019-08-10 11:07:52,1179YY39AA,purchase_model,insert_opening,1064insert into stock_transaction (
+                   stock_transaction_id
+                  ,sale_master_id
+                  ,product_id
+                  ,inward
+                  ,outward
+                  ,transaction_date
+                  ,memo_number
+                  ,transaction_type_id
+                ) VALUES (?,?,?,0,?,?,1)
+2019-08-25 10:32:22,9X714623HY,sale_model,insert_opening,1048insert into sale_details (
+               sale_details_id
+              ,sale_master_id
+              ,product_id
+              ,quantity
+              ,no_of_container
+              ,rate
+              ,sgst_rate
+              ,cgst_rate
+              ,igst_rate
+              ,sgst
+              ,cgst
+              ,igst
+            ) VALUES ('SLOC-00095-1920-1','SLOC-00095-1920',NULL,2.5,5,12,NULL,NULL,NULL,NULL,NULL,NULL)
+2019-08-25 10:32:33,H8473AHA54,sale_model,insert_opening,1048insert into sale_details (
+               sale_details_id
+              ,sale_master_id
+              ,product_id
+              ,quantity
+              ,no_of_container
+              ,rate
+              ,sgst_rate
+              ,cgst_rate
+              ,igst_rate
+              ,sgst
+              ,cgst
+              ,igst
+            ) VALUES ('SLOC-00095-1920-1','SLOC-00095-1920',NULL,2.5,5,12,NULL,NULL,NULL,NULL,NULL,NULL)
+2019-09-15 12:08:42,69A1311X32,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:47,435X3X7X2A,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:48,394A159AA3,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:49,A6297X8X9H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:49,834058506H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:50,19Y9551001,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:50,02A238374H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:50,Y3H43XY78H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:50,H7HA839050,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:50,A446Y5458H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:51,047A14X926,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:51,41944A37H0,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:09:51,0Y378X8765,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:10:31,2X908HA83H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:10:32,8035A65XH6,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:07,8HAY538X80,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:08,A191HHX270,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:08,060112X99Y,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:08,7650YA4489,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,6AX350X78X,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,6110A5832A,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,53YY275619,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,Y7A57Y412H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,7165YA39YX,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:09,3AY691YHYH,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:10,YHA8H6Y99A,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:10,Y866A78007,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:10,305H264A71,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:10,H00A515Y6H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:11:16,7HX173975H,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:12:13,11HX9H039A,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:12:14,3A665X4642,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 12:12:14,6307X715H9,purchase_model,insert_opening,2014select max(purchase_date) as purchase_date from purchase_master
+            inner join (select * from purchase_details where product_id=1)purchase_details
+2019-09-15 01:33:01,06516X5482,purchase_model,insert_opening,1054SELECT max(purchas_date) as purchase_date FROM `purchase_master`
+            inner join (select * from purchase_details where product_id=1) purchase_details 
+            on purchase_master.purchase_master_id = purchase_details.purchase_master_id
+2020-03-30 11:29:45,1030HY0A84,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:48,8844A798HY,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:48,97XH0AHA96,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:48,Y8555H1XY6,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:49,751H947225,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:49,AA1A671310,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:49,2H6308H896,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:49,40A4Y143AA,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:49,00Y5HH6078,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:50,92034A19X2,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:52,9007512250,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:52,32377Y0HH6,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:52,4X82467168,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:53,19Y61X5AX1,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:53,X926XY747A,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:53,9A7HH0Y724,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:53,46A09X70X4,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:54,XY8269X2H8,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:54,67XH1H8XY7,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:54,2662X3XY52,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:54,7A39X82924,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:54,8XA24H1A96,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:55,4576YA2430,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:55,8190Y35H38,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:55,H49X592X56,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:55,1Y0134H2Y4,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:55,1Y2Y221940,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:29:56,96032A5067,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31',0,9000,2)
+2020-03-30 11:31:52,5877HY6162,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:55,1H426413H8,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:55,137407971Y,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:56,6X0X340YY8,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:56,XA3A80H522,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:56,789YYYXXA7,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:56,H6H075A604,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:57,55093YH44A,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:57,16YH104Y76,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-03-30 11:31:57,9Y7528Y52Y,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SLOC-00517-1920',517,'V-00008-1920','HOD-00062-1718','2020-03-31T06:31:07.787Z',0,9000,2)
+2020-04-04 11:47:04,7XH43Y3A6X,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:07,6238462120,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:08,46YY56H943,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:08,H1H84X09Y9,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:08,533207H393,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:09,47385X6458,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:09,582H722213,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:09,15985035XY,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:09,74XX8926Y1,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:10,35AHX78946,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:10,8A804XHAH0,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:10,28X3903740,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:10,XA607YX110,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:10,H761665HX4,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:11,X8H060Y144,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:11,H603089Y36,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:11,H3X8A49HXX,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:11,1X20Y56980,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:11,A0XA990Y3H,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:12,0A15265541,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:12,89A2H558X3,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:12,8X771Y8H54,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:12,182H95X355,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:12,33A5X5Y739,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,89Y7AYXYY0,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,16539H83HX,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,A3824Y2668,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,68AY9143XH,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,90260A7XYY,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:13,446Y5135Y6,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:14,370632X735,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:14,3AXY9511X8,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:14,972A876X7A,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:14,2465Y2124H,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-04-04 11:47:46,054532Y30Y,sale_model,insert_opening,1062insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00001-2021',1,'V-00038-1920','HOD-00062-1718','2020-04-05',0.24,7639,1)
+2020-06-04 05:48:55,553HY2AA16,purchase_model,insert_opening,1048insert into product (
+                   product_id
+                  ,hsn_serial_no
+                  ,product_name
+                  ,default_unit_id
+                  ,opening_balance
+                  ,opening_date
+                ) VALUES (NULL,15,'Filter Cloth',3,'30','2020-06-04')
+2020-06-04 05:49:37,6972H9XYAX,purchase_model,insert_opening,1048insert into product (
+                   product_id
+                  ,hsn_serial_no
+                  ,product_name
+                  ,default_unit_id
+                  ,opening_balance
+                  ,opening_date
+                ) VALUES (NULL,15,'Fliter Cloth',3,'30','2020-06-04')
+2020-06-08 11:42:51,146H63H637,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:53,6513977A90,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:54,40Y9X9A8X7,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:54,78X16H6511,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:54,3A78Y46YH6,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:55,X6Y14X7XY3,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:55,5766HAXAX4,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:55,899H082383,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:55,905A000X8H,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:55,9A36A34376,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:42:56,83726XH8A1,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:43:41,Y3177732A9,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-06-08 11:43:42,77021A2Y78,sale_model,insert_opening,1452insert into sale_master (
+                   sale_master_id
+                  ,memo_number
+                  ,customer_id
+                  ,employee_id
+                  ,sale_date
+                  ,roundedOff
+                  ,grand_total
+                  ,bill_type
+                ) VALUES ('SMO-00082-2021',82,'V-00006-1920','','2020-06-09',-0.26,8804,1)
+2020-10-27 01:50:40,0X9X8YYX3Y,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =3)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:50:40,149XY1X9A4,stock_model,select_last_oil_cake_closing_stock,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =2)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:50:40,9X3H616H80,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =1)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:48,05A2H404YA,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =1)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:48,64544X1HH4,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =3)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:48,21X3HX0Y59,stock_model,select_last_oil_cake_closing_stock,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =2)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:52,50Y4440684,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =3)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:52,4909432695,purchase_model,insert_opening,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =1)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id
+2020-10-27 01:51:52,Y71YAH6279,stock_model,select_last_oil_cake_closing_stock,1146select  max(production_date) as production_date from stock_production_master
+            inner join (select * from stock_production_details where product_id =2)stock_production_details 
+            on stock_production_master.stock_production_master_id=stock_production_details.stock_production_master_id

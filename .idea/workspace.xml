@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fc59034-4205-4525-a7d9-4e97de6c145d" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-477571728">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="190" />
+          <entry key="php" value="550" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="190" />
+          <entry key="PHP" value="549" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="php" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.composer.command.options" />
+    </session>
+    <session id="-1227512105">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="5" />
+          <entry key="php" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="5" />
+          <entry key="PHP" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="64" />
+          <entry key="php" value="144" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="64" />
+          <entry key="PHP" value="142" />
+          <entry key="SQL" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gourisankar" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Purchase.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Purchase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="307" column="79" selection-start-line="307" selection-start-column="79" selection-end-line="307" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purchase_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/purchase_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+              <folding>
+                <marker date="1557880658061" expanded="true" signature="419:555" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="556:615" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="872:920" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="1276:1479" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="2704:2840" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="2841:2900" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="3150:3198" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="3618:4242" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="5294:5628" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="6417:6758" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="8692:9255" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="10374:10429" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="10788:11122" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="11925:11981" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="12340:12672" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="14412:15735" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="14718:15616" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="15991:16481" placeholder="..." />
+                <marker date="1557880658061" expanded="true" signature="16752:17275" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purchaseController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angularjs_controller/purchaseController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="496" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>select</find>
+      <find>date_for</find>
+      <find>select_report_details_by_date_to_date</find>
+      <find>get_report_by_date</find>
+      <find>saveOilCakeDetails</find>
+      <find>showSaleMustardOilBill</find>
+      <find>get_mustard_oil_bill_details_by_id</find>
+      <find>showMustardOilBillByBillId</find>
+      <find>memo_number</find>
+      <find>showBillNo</find>
+      <find>showOilCakeBillNo</find>
+      <find>vendor</find>
+      <find>selectedTab</find>
+      <find>insert_new_purchase</find>
+      <find>save_new_purchase</find>
+      <find>saveSeedToOil</find>
+      <find>insert_new_seed_to_oil_stock</find>
+      <find>purchase_date</find>
+      <find>save_new_seed_to_oil</find>
+      <find>insert_oil_into_blank_tin</find>
+      <find>changeDateFormat</find>
+      <find>save_new_oil_to_tin_conversion</find>
+      <find>resetPurchaseDetails</find>
+      <find>isUpdateable</find>
+      <find>allPurchaseList</find>
+      <find>purchaseMaster</find>
+      <find>$scope.purchaseMaster</find>
+      <find>get_all_purchase</find>
+      <find>alas</find>
+      <find>console</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>seedToOilConversion</replace>
+      <replace>addSaleDetailsData</replace>
+      <replace>saleReportArray</replace>
+      <replace>saleSubmitStatus</replace>
+      <replace>allSaleList</replace>
+      <replace>loadAllSale</replace>
+      <replace>getSaleFromTableForUpdate</replace>
+      <replace>updateSaleDetails</replace>
+      <replace>saveSaleDetails</replace>
+      <replace>sdl</replace>
+      <replace>td-input-right</replace>
+      <replace>isDuplicate</replace>
+      <replace>oilCakeMaster</replace>
+      <replace>oilMaster</replace>
+      <replace>oilCakeDataList</replace>
+      <replace>oilDetails</replace>
+      <replace>oilCakeDetails</replace>
+      <replace>oilFooter</replace>
+      <replace>oilCakeFooter</replace>
+      <replace>oilCakeDetailToSave</replace>
+      <replace>oilDetailToSave</replace>
+      <replace>addOilDetailsData</replace>
+      <replace>addOilCakeDetailsData</replace>
+      <replace>isUpdateableOil</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/angularjs_controller/productController.js" />
+        <option value="$PROJECT_DIR$/application/controllers/customer.php" />
+        <option value="$PROJECT_DIR$/application/views/public/index_top.php" />
+        <option value="$PROJECT_DIR$/css/hui-color-style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/application/models/sale_model_oil_cake.php" />
+        <option value="$PROJECT_DIR$/application/controllers/sale.php" />
+        <option value="$PROJECT_DIR$/application/models/product_model.php" />
+        <option value="$PROJECT_DIR$/css/print_style/my_printing_style.css" />
+        <option value="$PROJECT_DIR$/application/controllers/product.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/log_file.csv" />
+        <option value="$PROJECT_DIR$/application/models/sale_model.php" />
+        <option value="$PROJECT_DIR$/application/views/public/index_end.php" />
+        <option value="$PROJECT_DIR$/application/models/report_model.php" />
+        <option value="$PROJECT_DIR$/angularjs_controller/reportController.js" />
+        <option value="$PROJECT_DIR$/angularjs_controller/saleController.js" />
+        <option value="$PROJECT_DIR$/application/controllers/Staff.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Report.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Vendor.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Sale.php" />
+        <option value="$PROJECT_DIR$/angularjs_controller/loginController.js" />
+        <option value="$PROJECT_DIR$/angularjs_controller/myAppController.js" />
+        <option value="$PROJECT_DIR$/application/controllers/Base.php" />
+        <option value="$PROJECT_DIR$/application/controllers/stock.php" />
+        <option value="$PROJECT_DIR$/application/models/stock_model.php" />
+        <option value="$PROJECT_DIR$/angularjs_controller/stockController.js" />
+        <option value="$PROJECT_DIR$/_gitignore" />
+        <option value="$PROJECT_DIR$/application/models/vendor_model.php" />
+        <option value="$PROJECT_DIR$/application/models/customer_model.php" />
+        <option value="$PROJECT_DIR$/application/models/purchase_model.php" />
+        <option value="$PROJECT_DIR$/angularjs_controller/purchaseController.js" />
+        <option value="$PROJECT_DIR$/application/controllers/Purchase.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-common-types/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-brands/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-regular/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-solid/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-webfonts/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-animate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-aria/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-barcode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-chart.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-chart.js/tmp/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-material/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-messages/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular-qrcode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/angular/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chartjs-color-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chartjs-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qrcode-generator/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
+    <option name="y" value="38" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gourisankar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gourisankar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gourisankar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gourisankar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="angularjs_controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gourisankar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gourisankar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gourisankar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gourisankar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gourisankar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gourisankar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../commander" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Bitnami\wampstack-7.1.21-0\apache2\htdocs\gourisankar\angularjs_controller" />
+      <recent name="E:\Bitnami\wampstack-7.1.21-0\apache2\htdocs\gourisankar\application\models" />
+      <recent name="E:\Bitnami\wampstack-7.1.21-0\apache2\htdocs\gourisankar\application\controllers" />
+      <recent name="D:\Bitnami\wampstack-7.1.8-0\apache2\htdocs\gourisankar\application\models" />
+      <recent name="D:\Bitnami\wampstack-7.1.8-0\apache2\htdocs\gourisankar\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc59034-4205-4525-a7d9-4e97de6c145d" name="Default" comment="" />
+      <created>1529636060642</created>
+      <option name="number" value="Default" />
+      <updated>1529636060642</updated>
+      <workItem from="1529636062036" duration="5572000" />
+      <workItem from="1529647539323" duration="2562000" />
+      <workItem from="1529673666256" duration="6747000" />
+      <workItem from="1529738319468" duration="14000" />
+      <workItem from="1529741181431" duration="5100000" />
+      <workItem from="1529823814536" duration="136000" />
+      <workItem from="1529909495848" duration="6490000" />
+      <workItem from="1529995058092" duration="11349000" />
+      <workItem from="1530080598080" duration="3093000" />
+      <workItem from="1530087122597" duration="7782000" />
+      <workItem from="1530263429656" duration="258000" />
+      <workItem from="1530264130229" duration="59000" />
+      <workItem from="1530513392517" duration="8185000" />
+      <workItem from="1530694751808" duration="4273000" />
+      <workItem from="1530779193719" duration="7619000" />
+      <workItem from="1531193779065" duration="2330000" />
+      <workItem from="1531245938514" duration="246000" />
+      <workItem from="1531246235029" duration="240000" />
+      <workItem from="1531246493132" duration="3019000" />
+      <workItem from="1531270162753" duration="12580000" />
+      <workItem from="1531383114973" duration="3469000" />
+      <workItem from="1532413927830" duration="11623000" />
+      <workItem from="1532447623954" duration="5807000" />
+      <workItem from="1532498644194" duration="872000" />
+      <workItem from="1532502795100" duration="11955000" />
+      <workItem from="1532572713023" duration="6477000" />
+      <workItem from="1532594084793" duration="3737000" />
+      <workItem from="1532675161289" duration="10427000" />
+      <workItem from="1533282318591" duration="488000" />
+      <workItem from="1533286370045" duration="287000" />
+      <workItem from="1533320140509" duration="325000" />
+      <workItem from="1533370710681" duration="436000" />
+      <workItem from="1533634456519" duration="1121000" />
+      <workItem from="1533664383641" duration="3032000" />
+      <workItem from="1533705957655" duration="54000" />
+      <workItem from="1533709847724" duration="1023000" />
+      <workItem from="1533753908540" duration="1681000" />
+      <workItem from="1533775482716" duration="10765000" />
+      <workItem from="1533797758218" duration="7877000" />
+      <workItem from="1533868893615" duration="612000" />
+      <workItem from="1533870011758" duration="6786000" />
+      <workItem from="1533972675568" duration="5557000" />
+      <workItem from="1534125043193" duration="7785000" />
+      <workItem from="1534140211842" duration="11694000" />
+      <workItem from="1534316913190" duration="25669000" />
+      <workItem from="1534387157747" duration="4714000" />
+      <workItem from="1534443831930" duration="3247000" />
+      <workItem from="1534447840130" duration="464000" />
+      <workItem from="1534448352988" duration="2166000" />
+      <workItem from="1534474469372" duration="6361000" />
+      <workItem from="1534485553743" duration="12478000" />
+      <workItem from="1534523368025" duration="2952000" />
+      <workItem from="1534551702615" duration="8365000" />
+      <workItem from="1534565387431" duration="4697000" />
+      <workItem from="1534911596099" duration="2441000" />
+      <workItem from="1535218898861" duration="4536000" />
+      <workItem from="1535258567857" duration="1934000" />
+      <workItem from="1535264401698" duration="13397000" />
+      <workItem from="1535393140214" duration="1232000" />
+      <workItem from="1535620233880" duration="3137000" />
+      <workItem from="1536566926353" duration="829000" />
+      <workItem from="1536586276171" duration="1967000" />
+      <workItem from="1536600762752" duration="2016000" />
+      <workItem from="1536647352812" duration="522000" />
+      <workItem from="1536650192287" duration="9282000" />
+      <workItem from="1536663779527" duration="5444000" />
+      <workItem from="1536672606148" duration="12529000" />
+      <workItem from="1536736596898" duration="1724000" />
+      <workItem from="1536742206763" duration="5267000" />
+      <workItem from="1536751524237" duration="4710000" />
+      <workItem from="1536760319622" duration="4178000" />
+      <workItem from="1536806236938" duration="8936000" />
+      <workItem from="1536821390222" duration="11927000" />
+      <workItem from="1536845421763" duration="3129000" />
+      <workItem from="1536890741197" duration="5759000" />
+      <workItem from="1536907307058" duration="11981000" />
+      <workItem from="1536934706213" duration="1588000" />
+      <workItem from="1536946194761" duration="2289000" />
+      <workItem from="1536999382308" duration="1457000" />
+      <workItem from="1537004355955" duration="3230000" />
+      <workItem from="1537011599586" duration="2615000" />
+      <workItem from="1537030042577" duration="106000" />
+      <workItem from="1537110422904" duration="593000" />
+      <workItem from="1537165928492" duration="8763000" />
+      <workItem from="1537202110877" duration="3889000" />
+      <workItem from="1537256300726" duration="6578000" />
+      <workItem from="1537290227537" duration="23000" />
+      <workItem from="1537336842782" duration="15477000" />
+      <workItem from="1537363938122" duration="14465000" />
+      <workItem from="1537409425721" duration="10930000" />
+      <workItem from="1537423677539" duration="3632000" />
+      <workItem from="1537428019661" duration="10494000" />
+      <workItem from="1537449235581" duration="4553000" />
+      <workItem from="1537500965800" duration="13806000" />
+      <workItem from="1537535946452" duration="5311000" />
+      <workItem from="1537584315573" duration="14732000" />
+      <workItem from="1537695670234" duration="163000" />
+      <workItem from="1537770006514" duration="13000" />
+      <workItem from="1537898456370" duration="407000" />
+      <workItem from="1538026550253" duration="7972000" />
+      <workItem from="1538034565633" duration="6633000" />
+      <workItem from="1541143209492" duration="851000" />
+      <workItem from="1541148647744" duration="90000" />
+      <workItem from="1541660114418" duration="2571000" />
+      <workItem from="1542040523510" duration="16000" />
+      <workItem from="1542181641604" duration="5284000" />
+      <workItem from="1542187628412" duration="464000" />
+      <workItem from="1542189073236" duration="2224000" />
+      <workItem from="1542438866538" duration="25000" />
+      <workItem from="1543302450388" duration="3177000" />
+      <workItem from="1543379839081" duration="1596000" />
+      <workItem from="1543568169982" duration="5126000" />
+      <workItem from="1548988545073" duration="2293000" />
+      <workItem from="1549288983238" duration="6510000" />
+      <workItem from="1549425480393" duration="49000" />
+      <workItem from="1554014886584" duration="99000" />
+      <workItem from="1557684158119" duration="708000" />
+      <workItem from="1557880460843" duration="4602000" />
+      <workItem from="1558153018978" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="577777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="11" y="38" width="1200" height="646" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1500732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/models/purchase_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+          <folding>
+            <marker date="1557880658061" expanded="true" signature="419:555" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="556:615" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="872:920" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="1276:1479" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="2704:2840" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="2841:2900" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="3150:3198" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="3618:4242" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="5294:5628" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="6417:6758" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="8692:9255" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="10374:10429" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="10788:11122" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="11925:11981" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="12340:12672" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="14412:15735" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="14718:15616" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="15991:16481" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="16752:17275" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/purchaseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="496" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Purchase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="343" selection-start-line="107" selection-start-column="343" selection-end-line="107" selection-end-column="343" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="92" selection-start-line="116" selection-start-column="92" selection-end-line="116" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/stock_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="213" column="33" selection-start-line="213" selection-start-column="33" selection-end-line="213" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/stockController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/purchaseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="27" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="92" selection-start-line="133" selection-start-column="72" selection-end-line="133" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Purchase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="343" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="343" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/stock_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="213" column="33" selection-start-line="213" selection-start-column="33" selection-end-line="213" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organisation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/student_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="108" selection-start-line="64" selection-start-column="74" selection-end-line="64" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/customerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="180" column="3" selection-start-line="180" selection-start-column="3" selection-end-line="188" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/staffController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/productController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/huiui_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="485" column="0" selection-start-line="485" selection-start-column="0" selection-end-line="485" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/sale_model_oil_cake.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hui-color-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print_style/my_printing_script.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print_style/basic_print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print_style/my_printing_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/public/index_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/public/index_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/product_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/public/index_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/sale_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="224" column="70" selection-start-line="224" selection-start-column="70" selection-end-line="224" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="125" selection-start-line="42" selection-start-column="125" selection-end-line="42" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/vendorController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="149" column="55" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Vendor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="94" selection-start-line="128" selection-start-column="87" selection-end-line="128" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/myAppController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/loginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Sale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/saleController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="149" column="28" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="92" selection-start-line="116" selection-start-column="92" selection-end-line="116" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/stock_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="213" column="33" selection-start-line="213" selection-start-column="33" selection-end-line="213" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/stockController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/customer_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/vendor_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="30" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/purchase_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+          <folding>
+            <marker date="1557880658061" expanded="true" signature="419:555" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="556:615" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="872:920" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="1276:1479" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="2704:2840" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="2841:2900" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="3150:3198" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="3618:4242" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="5294:5628" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="6417:6758" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="8692:9255" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="10374:10429" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="10788:11122" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="11925:11981" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="12340:12672" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="14412:15735" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="14718:15616" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="15991:16481" placeholder="..." />
+            <marker date="1557880658061" expanded="true" signature="16752:17275" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularjs_controller/purchaseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="496" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Purchase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="307" column="79" selection-start-line="307" selection-start-column="79" selection-end-line="307" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
