@@ -197,8 +197,44 @@ class sale_model extends CI_Model {
         inner join sale_master ON sale_master.sale_master_id = sale_details.sale_master_id
         inner join person on sale_master.customer_id = person.person_id
         inner join product on sale_details.product_id=product.product_id
-        group by sale_details.sale_master_id,sale_details.product_id,sale_master.record_time order by sale_master.record_time desc";
+        group by sale_details.sale_master_id,sale_details.product_id,sale_master.record_time order by sale_master.record_time desc limit 30";
         $result = $this->db->query($sql,array());
+        return $result;
+    }
+
+
+    function select_sale_by_date($start_date,$end_date){
+        $sql="select 
+        max(sale_details.sale_master_id) as sale_master_id
+        ,max(person.person_name) as person_name
+        ,max(person.mobile_no) as mobile_no
+        ,max(sale_details.product_id) as product_id
+        ,max(sale_details.quantity) as quantity
+        ,max(sale_details.rate) as rate
+        , max(sale_details.sgst_rate) as sgst_rate
+        , max(sale_details.cgst_rate) as cgst_rate
+        , max(sale_details.igst_rate) as igst_rate
+        , max(sale_details.sgst) as sgat
+        , max(sale_details.cgst) as cgst
+        , max(sale_details.igst) as igst
+        , max(sale_master.memo_number) as memo_number
+        , max(sale_master.customer_id) as customer_id
+        , max(sale_master.employee_id) as employee_id
+        , DATE_FORMAT(max(sale_date), '%d/%m/%Y') as display_sale_date
+        , max(sale_date) as sale_date
+        ,date_format(max(sale_master.sale_date),'%M') as sale_month
+        , max(sale_master.roundedOff) as roundedOff
+        , max(sale_master.grand_total) as grand_total
+        ,max(sale_master.bill_type) as bill_type
+        ,max(product_name) as bill_type_name
+        from sale_details 
+        inner join sale_master ON sale_master.sale_master_id = sale_details.sale_master_id
+        inner join person on sale_master.customer_id = person.person_id
+        inner join product on sale_details.product_id=product.product_id
+        where sale_master.sale_date between ? and ?
+        group by sale_details.sale_master_id,sale_details.product_id,sale_master.record_time
+        order by sale_master.record_time desc";
+        $result = $this->db->query($sql,array($start_date,$end_date));
         return $result;
     }
 

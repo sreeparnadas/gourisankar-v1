@@ -566,6 +566,26 @@ app.controller("saleCtrl", function ($scope,$http,$filter,$rootScope,$timeout,$f
         });
     };
     //loading sale bills
+    $scope.changeDateFormat=function(userDate){
+        return moment(userDate).format('YYYY-MM-DD');
+    };
+    $scope.start_date=new Date();
+    $scope.end_date=new Date();
+
+    $scope.getSaleByDate=function(startDate,endDate){
+        var request = $http({
+            method: "post",
+            url: site_url+"/sale/get_sale_by_date",
+            data: {
+                start_date: startDate,
+                end_date: endDate
+            }
+            ,headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+        }).then(function(response){
+            $scope.allSaleList=response.data.records;
+        });
+    };
+
     
 //working
     $scope.options = [{ name: "a", id: 1 }, { name: "b", id: 2 }, { name: "c", id: 3 }];

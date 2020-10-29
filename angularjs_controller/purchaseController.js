@@ -381,6 +381,26 @@ app.controller("purchaseCtrl", function ($scope,$http,$filter,$rootScope,$timeou
     };
     //loading sale bills
     $scope.loadAllPurchase();
+
+    $scope.changeDateFormat=function(userDate){
+        return moment(userDate).format('YYYY-MM-DD');
+    };
+    $scope.start_date=new Date();
+    $scope.end_date=new Date();
+
+    $scope.getPurchaseByDate=function(startDate,endDate){
+        var request = $http({
+            method: "post",
+            url: site_url+"/purchase/get_purchase_by_date",
+            data: {
+                start_date: startDate,
+                end_date: endDate
+            }
+            ,headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+        }).then(function(response){
+            $scope.allPurchaseList=response.data.records;
+        });
+    };
 //working
     $scope.options = [{ name: "a", id: 1 }, { name: "b", id: 2 }, { name: "c", id: 3 }];
     $scope.selectedOption = $scope.options[1];

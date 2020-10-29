@@ -315,13 +315,16 @@ class Sale extends CI_Controller {
                             <div class="card">
                                 <div class="card-header">
                                     <div class="d-flex">
-                                        <div class="col-4"><input type="text" ng-model="searchItem"><span class="glyphicon glyphicon-search"></span> Search </div>
-                                        <div class="col-6 p-0 m-0"><button type="button" class="btn btn-primary" ng-click="saveToExcel('test2.xls',moilExceldata)">Send to Excel</button></div>
-
+                                        <div class="col-3"><input type="text" ng-model="searchItem"><span class="glyphicon glyphicon-search"></span> Search </div>
+                                        <div class="col-2 p-0 m-0"><button type="button" class="btn btn-primary" ng-click="saveToExcel('test2.xls',moilExceldata)">Send to Excel</button></div>
+                                        <div class="col-2"><input type="date" class="form-control" ng-model="start_date" ng-change="changeDateFormat(start_date)"></div>
+                                        <div class="col-2"><input type="date" class="form-control" ng-model="end_date" ng-change="changeDateFormat(end_date)"></div>
+                                        <div class="col-2 p-0 m-0"><button type="button" class="btn btn-success" ng-click="getSaleByDate(start_date,end_date)">Show</button></div>
                                     </div>
                                 </div>
                                 <div class="card-body">
                                 <div class="d-flex justify-content-center" ng-if="!allSaleList"><img src="img/spinner.gif" width="100px" height="100px" alt=""></div>
+                                <div class="d-flex justify-content-center" ng-if="allSaleList.length==0">No records found</div>
                                 <!-- <span class="text-center"><img src="img/spinner.gif" width="100px" height="100px" alt=""></span> -->
                                     <table cellpadding="0" cellspacing="0" class="table table-bordered" ng-if="allSaleList.length">
                                         <tr>
@@ -773,7 +776,7 @@ class Sale extends CI_Controller {
     }
     function save_new_sale(){
         $post_data =json_decode(file_get_contents("php://input"), true);
-       $result=$this->sale_model->insert_new_sale((object)$post_data['sale_master'],(object)$post_data['sale_details_list']);
+        $result=$this->sale_model->insert_new_sale((object)$post_data['sale_master'],(object)$post_data['sale_details_list']);
         $report_array['records']=$result;
         echo json_encode($report_array);
 
@@ -781,6 +784,13 @@ class Sale extends CI_Controller {
 
     function get_all_sale(){
         $result=$this->sale_model->select_all_sale()->result_array();
+        $report_array['records']=$result;
+        echo json_encode($report_array,JSON_NUMERIC_CHECK);
+
+    }
+    function get_sale_by_date(){
+        $post_data =json_decode(file_get_contents("php://input"), true);
+        $result=$this->sale_model->select_sale_by_date($post_data['start_date'],$post_data['end_date'])->result_array();
         $report_array['records']=$result;
         echo json_encode($report_array,JSON_NUMERIC_CHECK);
 

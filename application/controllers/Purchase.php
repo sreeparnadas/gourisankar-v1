@@ -340,8 +340,15 @@ class Purchase extends CI_Controller {
                     </div>
                     <div ng-show="isSet(2)">
                         <div id="my-tab-2">
-                            <div class="row d-flex col-12">
-                                <p><input type="text" ng-model="searchItem"><span class="glyphicon glyphicon-search"></span> Search </p>
+                            <div class="row ">
+                                <div class="d-flex">
+                                        <div class="col-2"><input type="text" ng-model="searchItem"><span class="glyphicon glyphicon-search"></span> Search  </div>
+                                        <div class="col-1"></div>
+                                        <div class="col-3"><input type="date" class="form-control" ng-model="start_date" ng-change="changeDateFormat(start_date)"></div>
+                                        <div class="col-3"><input type="date" class="form-control" ng-model="end_date" ng-change="changeDateFormat(end_date)"></div>
+                                        <div class="col-3 p-0 m-0"><button type="button" class="btn btn-success" ng-click="getPurchaseByDate(start_date,end_date)">Show</button></div>
+                                </div>
+
                                 <table cellpadding="0" cellspacing="0" class="table table-bordered">
                                     <tr>
                                         <th>SL></th>
@@ -450,6 +457,14 @@ class Purchase extends CI_Controller {
         echo json_encode($report_array,JSON_NUMERIC_CHECK);
 
     }
+    function get_purchase_by_date(){
+        $post_data =json_decode(file_get_contents("php://input"), true);
+        $result=$this->purchase_model->select_purchase_by_date($post_data['start_date'],$post_data['end_date'])->result_array();
+        $report_array['records']=$result;
+        echo json_encode($report_array,JSON_NUMERIC_CHECK);
+
+    }
+
     function get_purchase_details_by_purchase_master_id(){
         $post_data =json_decode(file_get_contents("php://input"), true);
         $result=$this->purchase_model->select_purchase_details_by_purchase_master_id($post_data['purchase_master_id'])->result_array();

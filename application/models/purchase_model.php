@@ -390,7 +390,7 @@ class Purchase_model extends CI_Model {
         ,purchase_master.record_time,purchase_master.purchase_date) as table1
         inner join person on person.person_id=table1.vendor_id 
         group by purchase_master_id,table1.vendor_id,person.person_name,person.company_name,person.mobile_no
-        ,table1.record_time,table1.purchase_date,table1.purchase_month order by table1.purchase_master_id desc";
+        ,table1.record_time,table1.purchase_date,table1.purchase_month order by table1.purchase_master_id desc limit 30";
         $result=$this->db->query($sql,array());
         if($result==null){
             return null;
@@ -398,6 +398,46 @@ class Purchase_model extends CI_Model {
             return $result;
         }
     }
+
+    function select_purchase_by_date($start_date,$end_date){
+        $sql="select
+        purchase_master_id,vendor_id, person.person_name as vendor_name,company_name, person.mobile_no ,record_time,purchase_date
+        ,purchase_month
+        ,max(sgst) as sgst
+        ,max(cgst) as cgst
+        ,max(igst) as igst
+        ,sum(amount+sgst+cgst+igst) as total_purchase_amount
+        from (select
+        purchase_master.purchase_master_id
+        ,purchase_master.vendor_id
+        ,purchase_master.record_time
+        , DATE_FORMAT(purchase_master.purchase_date, '%d/%m/%Y') as purchase_date
+        ,date_format(purchase_master.purchase_date,'%M') as purchase_month
+        ,sum(purchase_details.quantity * purchase_details.rate) as amount
+        ,sum(purchase_details.quantity * purchase_details.rate * purchase_details.sgst_rate) as sgst
+        ,sum(purchase_details.quantity * purchase_details.rate * purchase_details.cgst_rate) as cgst
+        ,sum(purchase_details.quantity * purchase_details.rate * purchase_details.igst_rate) as igst
+        from purchase_details
+        inner join purchase_master ON purchase_master.purchase_master_id = purchase_details.purchase_master_id
+        where purchase_master.purchase_date between ? and ?
+        group by purchase_master.purchase_master_id,purchase_master.vendor_id
+        ,purchase_master.record_time,purchase_master.purchase_date) as table1
+        inner join person on person.person_id=table1.vendor_id 
+        group by purchase_master_id,table1.vendor_id,person.person_name,person.company_name,person.mobile_no
+        ,table1.record_time,table1.purchase_date,table1.purchase_month order by table1.purchase_master_id desc";
+        $result=$this->db->query($sql,array($start_date,$end_date));
+        if($result==null){
+            return null;
+        }else{
+            return $result;
+        }
+    }
+
+
+
+
+
+
 
     function select_purchase_details_by_purchase_master_id($purchaseMasterId){
         $sql="select 
